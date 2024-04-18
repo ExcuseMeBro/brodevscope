@@ -10,7 +10,7 @@ primitive: https://www.radix-vue.com/components/avatar.html
 ## Installation
 
 ```bash
-npx shadcn-vue@latest add avatar
+npx brodevscope@latest add avatar
 ```
 
 ## Usage

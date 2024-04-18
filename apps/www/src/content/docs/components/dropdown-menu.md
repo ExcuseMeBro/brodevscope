@@ -10,7 +10,7 @@ primitive: https://www.radix-vue.com/components/dropdown-menu.html
 ## Installation
 
 ```bash
-npx shadcn-vue@latest add dropdown-menu
+npx brodevscope@latest add dropdown-menu
 ```
 ## Usage
 

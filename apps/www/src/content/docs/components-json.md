@@ -17,18 +17,18 @@ We use it to understand how your project is set up and how to generate component
 You can create a `components.json` file in your project by running the following command:
 
 ```bash
-npx shadcn-vue@latest init
+npx brodevscope@latest init
 ```
 
 See the [CLI section](/docs/cli) for more information.
 
 ## $schema
 
-You can see the JSON Schema for `components.json` [here](https://shadcn-vue.com/schema.json).
+You can see the JSON Schema for `components.json` [here](https://brodevscope.vercel.app/schema.json).
 
 ```json title="components.json"
 {
-  "$schema": "https://shadcn-vue.com/schema.json"
+  "$schema": "https://brodevscope.vercel.app/schema.json"
 }
 ```
 

@@ -22,7 +22,7 @@ If you're looking for a range calendar, check out the [Range Calendar](/docs/com
 ## Installation
 
 ```bash
-npx shadcn-vue@latest add calendar
+npx brodevscope@latest add calendar
 ```
 
 ## Datepicker

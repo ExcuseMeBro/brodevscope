@@ -1,5 +1,5 @@
 ---
-title: Blocks - shadcn-vue
+title: Blocks - Brodevscope
 layout: false
 ---
 

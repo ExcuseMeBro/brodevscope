@@ -1,7 +1,6 @@
 ## Documentation
 
-[View documentation here](https://www.shadcn-vue.com/docs/introduction.html)
-
+[View documentation here](https://www.brodevscope.vercel.app/docs/introduction.html)
 
 ## License
 

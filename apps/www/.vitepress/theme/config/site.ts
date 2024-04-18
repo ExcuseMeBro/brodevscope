@@ -1,16 +1,14 @@
 export const siteConfig = {
-  name: 'shadcn-vue',
-  url: 'https://shadcn-vue.com',
-  ogImage: 'https://shadcn-vue.com/og.png',
+  name: 'brodevscope',
+  url: 'https://brodevscope.vercel.app',
+  ogImage: 'https://brodevscope.vercel.app/og.png',
   description:
-		'Beautifully designed components built with Radix Vue and Tailwind CSS.',
+		'Beautifully designed components built with Tailwind CSS.',
   links: {
-    twitter: 'https://twitter.com/huntabyte',
-    github: 'https://github.com/huntabyte/shadcn-vue',
-    shadTwitter: 'https://twitter.com/shadcn',
+    github: 'https://github.com/ExcuseMeBro/brodevscope',
     shadGithub: 'https://github.com/shadcn/ui',
   },
-  keywords: 'shadcn,Vue,Nuxt,Vue Components,TailwindCSS,Radix Vue',
+  keywords: 'shadcn,Vue,Nuxt,Vue Components,TailwindCSS',
 }
 
 export const announcementConfig = {

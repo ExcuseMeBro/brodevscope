@@ -1,11 +1,11 @@
 {
-  "name": "shadcn-vue",
+  "name": "brodevscope",
   "type": "module",
   "version": "0.10.3",
   "private": true,
   "packageManager": "pnpm@9.0.2",
   "license": "MIT",
-  "repository": "radix-vue/shadcn-vue",
+  "repository": "ExcuseMeBro/brodevscope",
   "workspaces": [
     "packages/*"
   ],
@@ -16,13 +16,13 @@
     "prepare": "pnpm simple-git-hooks",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
-    "dev:cli": "pnpm --filter shadcn-vue dev",
-    "build:cli": "pnpm --filter shadcn-vue build",
+    "dev:cli": "pnpm --filter brodevscope dev",
+    "build:cli": "pnpm --filter brodevscope build",
     "build:registry": "pnpm --filter=www build:registry",
     "bumpp": "bumpp package.json packages/*/package.json apps/*/package.json",
     "pub:beta": "cd packages/cli && pnpm pub:beta",
     "pub:release": "cd packages/cli && pnpm pub:release",
-    "test": "pnpm --filter shadcn-vue test",
+    "test": "pnpm --filter brodevscope test",
     "taze": "taze major -frI --ignore-paths ./packages/cli/test/** --exclude typescript,/@iconify/",
     "taze:minor": "taze minor -fwri --ignore-paths ./packages/cli/test/** --exclude /@iconify/"
   },

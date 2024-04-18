@@ -1,5 +1,5 @@
 ---
-title: Theming - shadcn-vue
+title: Theming - brodevscope
 ---
 
 <script setup>

@@ -8,7 +8,7 @@ description: A responsive table component.
 ## Installation
 
 ```bash
-npx shadcn-vue@latest add table
+npx brodevscope@latest add table
 ```
 
 ## Usage

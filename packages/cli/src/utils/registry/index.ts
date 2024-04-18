@@ -13,7 +13,7 @@ import {
 import type { registryItemWithContentSchema } from '@/src/utils/registry/schema'
 import type { Config } from '@/src/utils/get-config'
 
-const baseUrl = process.env.COMPONENTS_REGISTRY_URL ?? 'https://www.shadcn-vue.com'
+const baseUrl = process.env.COMPONENTS_REGISTRY_URL ?? 'https://www.brodevscope.vercel.app'
 const agent = process.env.https_proxy
   ? new HttpsProxyAgent(process.env.https_proxy)
   : undefined

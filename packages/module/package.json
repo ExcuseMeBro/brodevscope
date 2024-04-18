@@ -1,15 +1,15 @@
 {
-  "name": "shadcn-nuxt",
+  "name": "brodevscope-nuxt",
   "type": "module",
   "version": "0.10.3",
-  "description": "Add shadcn-vue module to Nuxt",
+  "description": "Add brodevscope module to Nuxt",
   "publishConfig": {
     "access": "public"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/radix-vue/shadcn-vue.git",
+    "url": "https://github.com/ExcuseMeBro/brodevscope.git",
     "directory": "packages/module"
   },
   "exports": {

@@ -15,10 +15,10 @@ laravel new my-app --typescript --breeze --stack=vue --git --no-interaction
 
 ### Run the CLI
 
-Run the `shadcn-vue` init command to setup your project:
+Run the `brodevscope` init command to setup your project:
 
 ```bash
-npx shadcn-vue@latest init
+npx brodevscope@latest init
 ```
 
 ### Configure components.json
@@ -39,7 +39,7 @@ Configure the import alias for utils: › @/lib/utils
 
 ### Update tailwind.config.js
 
-The `shadcn-vue` CLI will automatically overwrite your `tailwind.config.js`. Update it to look like this:
+The `brodevscope` CLI will automatically overwrite your `tailwind.config.js`. Update it to look like this:
 
 ```js
 import forms from '@tailwindcss/forms'
@@ -133,7 +133,7 @@ export default {
 You can now start adding components to your project.
 
 ```bash
-npx shadcn-vue@latest add button
+npx brodevscope@latest add button
 ```
 
 The command above will add the `Button` component to your project. You can then import it like this:

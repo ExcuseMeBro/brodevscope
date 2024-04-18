@@ -14,7 +14,7 @@ primitive: https://www.radix-vue.com/components/toast.html
 ### Run the following command
 
 ```bash
-npx shadcn-vue@latest add toast
+npx brodevscope@latest add toast
 ```
 
 ### Add the Toaster component
@@ -45,7 +45,7 @@ import { useToast } from '@/components/ui/toast/use-toast'
 <script setup lang="ts">
 import { Button } from '@/components/ui/button'
 import { useToast } from '@/components/ui/toast/use-toast'
-import { Toaster } from "@/components/ui/toast"
+import { Toaster } from '@/components/ui/toast'
 
 const { toast } = useToast()
 </script>

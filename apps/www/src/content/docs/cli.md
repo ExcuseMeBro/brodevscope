@@ -10,7 +10,7 @@ Use the `init` command to initialize configuration and dependencies for a new pr
 The `init` command installs dependencies, adds the `cn`, `useEmitsAsProps` utils, configures `tailwind.config.cjs`, and creates CSS variables for the project.
 
 ```bash
-npx shadcn-vue@latest init
+npx brodevscope@latest init
 ```
 
 You will be asked a few questions to configure `components.json`:
@@ -30,7 +30,7 @@ Configure the import alias for utils: › @/lib/utils
 ### Options
 
 ```txt
-Usage: shadcn-vue init [options]
+Usage: brodevscope init [options]
 
 initialize your project and install dependencies
 
@@ -45,7 +45,7 @@ Options:
 Use the `add` command to add components and dependencies to your project.
 
 ```bash
-npx shadcn-vue@latest add [component]
+npx brodevscope@latest add [component]
 ```
 
 You will be presented with a list of components to choose from:
@@ -68,7 +68,7 @@ Which components would you like to add? › Space to select. Return to submit.
 ### Options
 
 ```txt
-Usage: shadcn-vue add [options] [components...]
+Usage: brodevscope add [options] [components...]
 
 add components to your project
 
@@ -91,7 +91,7 @@ Use the `update` command to update components in your project. This will overwri
 We plan on improving this command in the future to improve the update experience.
 
 ```txt
-Usage: shadcn-vue update [options] [components...]
+Usage: brodevscope update [options] [components...]
 
 update components in your project
 

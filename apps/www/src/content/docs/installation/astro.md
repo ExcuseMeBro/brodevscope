@@ -89,10 +89,10 @@ Add the code below to the tsconfig.json file to resolve paths:
 
 ### Run the CLI
 
-Run the `shadcn-vue` init command to setup your project:
+Run the `brodevscope` init command to setup your project:
 
 ```bash
-npx shadcn-vue@latest init
+npx brodevscope@latest init
 ```
 
 ### Configure components.json
@@ -141,7 +141,7 @@ export default defineConfig({
 You can now start adding components to your project.
 
 ```bash
-npx shadcn-vue@latest add button
+npx brodevscope@latest add button
 ```
 
 The command above will add the `Button` component to your project. You can then import it like this:

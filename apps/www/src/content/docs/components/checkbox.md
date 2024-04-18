@@ -10,7 +10,7 @@ primitive: https://www.radix-vue.com/components/checkbox.html
 ## Installation
 
 ```bash
-npx shadcn-vue@latest add checkbox
+npx brodevscope@latest add checkbox
 ```
 
 ## Usage

@@ -1,12 +1,4 @@
-# Contributing
-
-Thanks for your interest in contributing to shadcn-vue.com. We're happy to have you here.
-
-Please take a moment to review this document before submitting your first pull request. We also strongly recommend that you check for open issues and pull requests to see if someone else is working on something similar.
-
-If you need any help, feel free to reach out to the core team on [Discord](https://chat.radix-vue.com/).
-
-## About this repository
+# About this repository
 
 This repository is a monorepo.
 
@@ -37,14 +29,14 @@ packages
 | `apps/www/.vitepress`       | The Vitepress application for the website. |
 | `apps/www/src/content`      | The content for the website.               |
 | `apps/www/src/lib/registry` | The registry for the components.           |
-| `packages/cli`              | The `shadcn-vue` package.                  |
+| `packages/cli`              | The `brodevscope` package.                  |
 
 ## Development
 
 ### Start by cloning the repository:
 
 ```
-git clone git@github.com:radix-vue/shadcn-vue.git
+git clone git@github.com:ExcuseMeBro/brodevscope.git
 ```
 
 ### Install dependencies
@@ -59,7 +51,7 @@ You can use the `pnpm --filter=[WORKSPACE]` command to start the development pro
 
 #### Examples
 
-1. To run the `shadcn-vue.com` website:
+1. To run the `brodevscope.vercel.app` website:
 
 ```
 pnpm dev
@@ -142,7 +134,7 @@ If you have a request for a new component, please open a discussion on GitHub. W
 
 ## CLI
 
-The `shadcn-vue` package is a CLI for adding components to your project. You can find the documentation for the CLI [here](https://shadcn-vue.com/docs/cli).
+The `brodevscope` package is a CLI for adding components to your project. You can find the documentation for the CLI [here](https://brodevscope.vercel.app/docs/cli).
 
 Any changes to the CLI should be made in the `packages/cli` directory. If you can, it would be great if you could add tests for your changes.
 
