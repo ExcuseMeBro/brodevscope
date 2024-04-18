@@ -40,14 +40,9 @@ const toggleDark = useToggle(isDark)
 const links = [
   {
     name: 'GitHub',
-    href: 'https://github.com/radix-vue/shadcn-vue',
+    href: 'https://github.com/ExcuseMeBro/brodevscope',
     icon: RadixIconsGithubLogo,
   },
-  // {
-  //   name: 'X',
-  //   href: 'https://x.com',
-  //   icon: TablerBrandX,
-  // },
 ]
 
 const isOpen = ref(false)

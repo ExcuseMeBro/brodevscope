@@ -13,7 +13,7 @@ import CodeWrapperPlugin from './theme/plugins/codewrapper'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: siteConfig.name,
-  titleTemplate: ':title - shadcn/vue',
+  titleTemplate: ':title - brodevscope',
   description: siteConfig.description,
   head: [
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
@@ -24,7 +24,7 @@ export default defineConfig({
     ['meta', { name: 'theme-color', media: '(prefers-color-scheme: light)', content: 'white' }],
     ['meta', { name: 'theme-color', media: '(prefers-color-scheme: dark)', content: 'black' }],
 
-    ['meta', { name: 'creator', content: 'radix-vue' }],
+    ['meta', { name: 'creator', content: 'brodev.uz' }],
     ['meta', { name: 'theme-color', content: '#41b883' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:locale', content: 'en' }],
@@ -35,7 +35,7 @@ export default defineConfig({
   ],
 
   sitemap: {
-    hostname: 'https://www.shadcn-vue.com',
+    hostname: 'https://brodevscope.vercel.app',
     transformItems(items) {
       return items.filter(item => !item.url.includes('migration'))
     },
@@ -47,7 +47,7 @@ export default defineConfig({
       provider: 'local',
     },
     editLink: {
-      pattern: 'https://github.com/radix-vue/shadcn-vue/tree/dev/apps/www/src/:path',
+      pattern: 'https://github.com/ExcuseMeBro/brodevscope/tree/dev/apps/www/src/:path',
       text: 'Edit this page on GitHub',
     },
   },
