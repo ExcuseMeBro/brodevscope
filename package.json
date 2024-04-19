@@ -3,7 +3,6 @@
   "type": "module",
   "version": "0.10.3",
   "private": true,
-  "packageManager": "pnpm@9.0.2",
   "license": "MIT",
   "repository": "ExcuseMeBro/brodevscope",
   "workspaces": [
