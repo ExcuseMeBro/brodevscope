@@ -11,7 +11,7 @@ description: Use to show a placeholder while content is loading.
 <template #CLI>
 
 ```bash
-npx shadcn-vue@latest add skeleton
+npx brodevscope@latest add skeleton
 ```
 </template>
 

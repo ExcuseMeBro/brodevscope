@@ -13,7 +13,7 @@ primitive: https://www.radix-vue.com/components/progress.html
 <template #CLI>
 
 ```bash
-npx shadcn-vue@latest add progress
+npx brodevscope@latest add progress
 ```
 </template>
 

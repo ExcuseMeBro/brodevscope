@@ -16,7 +16,7 @@
     </svg>
 
     <span class="font-bold">
-      shadcn-vue
+      brodevscope
     </span>
   </a>
 </template>

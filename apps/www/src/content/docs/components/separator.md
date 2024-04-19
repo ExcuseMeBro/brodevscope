@@ -13,7 +13,7 @@ primitive: https://www.radix-vue.com/components/separator.html
 <template #CLI>
 
 ```bash
-npx shadcn-vue@latest add separator
+npx brodevscope@latest add separator
 ```
 </template>
 

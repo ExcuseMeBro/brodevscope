@@ -57,7 +57,7 @@ You can use the `pnpm --filter=[WORKSPACE]` command to start the development pro
 pnpm dev
 ```
 
-2. To run the `shadcn-vue` cli package:
+2. To run the `brodevscope` cli package:
 
 ```
 pnpm dev:cli

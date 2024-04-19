@@ -10,7 +10,7 @@ primitive: https://www.radix-vue.com/components/pin-input.html
 ## Installation
 
 ```bash
-npx shadcn-vue@latest add pin-input
+npx brodevscope@latest add pin-input
 ```
 
 ## Usage

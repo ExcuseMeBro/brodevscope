@@ -89,7 +89,7 @@ function constructFiles(componentName: string, style: Style, sources: Record<str
     'tailwind-merge': 'latest',
     'tailwindcss-animate': 'latest',
     [iconPackage]: 'latest',
-    'shadcn-vue': 'latest',
+    'brodevscope': 'latest',
     'typescript': 'latest',
     'vaul-vue': 'latest',
     'vue-sonner': 'latest',
@@ -129,8 +129,8 @@ function constructFiles(componentName: string, style: Style, sources: Record<str
   const files = {
     'package.json': {
       content: {
-        name: `shadcn-vue-${componentName.toLowerCase().replace(/ /g, '-')}`,
-        scripts: { start: `shadcn-vue add ${registryDependencies.join(' ')} -y && vite` },
+        name: `brodevscope-${componentName.toLowerCase().replace(/ /g, '-')}`,
+        scripts: { start: `brodevscope add ${registryDependencies.join(' ')} -y && vite` },
         dependencies,
         devDependencies,
       },
