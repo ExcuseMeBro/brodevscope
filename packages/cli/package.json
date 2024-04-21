@@ -1,7 +1,8 @@
 {
   "name": "brodevscope",
   "type": "module",
-  "version": "0.10.3",
+  "version": "0.1.0",
+  "packageManager": "pnpm@9.0.4",
   "description": "Add components to your apps.",
   "publishConfig": {
     "access": "public"
