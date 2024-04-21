@@ -1,5 +1,5 @@
 {
-  "name": "brodevscope",
+  "name": "brodevuz",
   "type": "module",
   "version": "0.1.0",
   "packageManager": "pnpm@9.0.4",
@@ -20,7 +20,7 @@
     "nuxt",
     "tailwind",
     "components",
-    "brodevscope"
+    "brodevuz"
   ],
   "exports": "./dist/index.js",
   "bin": "./dist/index.js",

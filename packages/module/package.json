@@ -1,8 +1,8 @@
 {
-  "name": "brodevscope-nuxt",
+  "name": "brodevuz-nuxt",
   "type": "module",
   "version": "0.1.0",
-  "description": "Add brodevscope module to Nuxt",
+  "description": "Add brodevuz module to Nuxt",
   "publishConfig": {
     "access": "public"
   },

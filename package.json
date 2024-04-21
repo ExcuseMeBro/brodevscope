@@ -1,5 +1,5 @@
 {
-  "name": "brodevscope",
+  "name": "brodevuz",
   "type": "module",
   "version": "0.1.0",
   "private": true,
@@ -10,15 +10,11 @@
     "packages/*"
   ],
   "scripts": {
-    "dev": "pnpm --filter www dev",
-    "build": "pnpm --filter www build",
-    "preview": "pnpm --filter www preview",
     "prepare": "pnpm simple-git-hooks",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "dev:cli": "pnpm --filter brodevscope dev",
     "build:cli": "pnpm --filter brodevscope build",
-    "build:registry": "pnpm --filter=www build:registry",
     "bumpp": "bumpp package.json packages/*/package.json apps/*/package.json",
     "pub:beta": "cd packages/cli && pnpm pub:beta",
     "pub:release": "cd packages/cli && pnpm pub:release",

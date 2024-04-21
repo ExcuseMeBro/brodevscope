@@ -18,7 +18,7 @@ Shadcn Vue module for Nuxt.
 
 - [✨ &nbsp;Release Notes](/CHANGELOG.md)
 <!-- - [🏀 Online playground](https://stackblitz.com/github/ExcuseMeBro/brodevscope?file=playground%2Fapp.vue) -->
-- [📖 &nbsp;Documentation](https://www.brodevscope.vercel.app/docs/installation/nuxt.html)
+- [📖 &nbsp;Documentation](https://brodevscope.vercel.app/docs/installation/nuxt.html)
 
 ## Features
 

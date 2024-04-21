@@ -15,7 +15,7 @@ async function main() {
   const packageInfo = await getPackageInfo()
 
   const program = new Command()
-    .name('brodevscope')
+    .name('brodevuz')
     .description('add components and dependencies to your project')
     .version(
       packageInfo.version || '1.0.0',

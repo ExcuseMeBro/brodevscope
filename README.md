@@ -1,6 +1,6 @@
 ## Documentation
 
-[View documentation here](https://www.brodevscope.vercel.app/docs/introduction.html)
+[View documentation here](https://brodevscope.vercel.app/docs/introduction.html)
 
 ## License
 

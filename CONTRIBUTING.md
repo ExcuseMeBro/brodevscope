@@ -29,7 +29,7 @@ packages
 | `apps/www/.vitepress`       | The Vitepress application for the website. |
 | `apps/www/src/content`      | The content for the website.               |
 | `apps/www/src/lib/registry` | The registry for the components.           |
-| `packages/cli`              | The `brodevscope` package.                  |
+| `packages/cli`              | The `brodevuz` package.                  |
 
 ## Development
 
